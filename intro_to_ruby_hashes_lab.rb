@@ -21,8 +21,7 @@ end
 def my_hash_creator(key, value)
   # return a hash that includes the key and value par
   ameters passed into this method
-  hash = {key: value}
-  hash
+  {key: value}
 end
 
 def read_from_hash(hash, key)
