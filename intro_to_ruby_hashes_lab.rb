@@ -20,7 +20,7 @@ end
 
 def my_hash_creator(key, value)
   # return a hash that includes the key and value par
-  pameters passed into this method
+  ameters passed into this method
   hash{#{key} => value}
   hash
 end
